@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="CKCCTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/appColor</item>
+        <item name="colorPrimaryDark">@color/statusBarColor</item>
+        <item name="colorAccent">@color/appColorAccent</item>
+
+    </style>
+
+</resources>
